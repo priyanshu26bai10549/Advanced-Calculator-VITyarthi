@@ -1,0 +1,2 @@
+# Advanced Calculator uses Python standard library only.
+# Python 3.10+ recommended.
